@@ -15,7 +15,6 @@
 <a href="https://t.me/AxionCs"><img src="https://img.shields.io/badge/Telegram-9333ea?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://twitter.com/AxionCs_"><img src="https://img.shields.io/badge/Twitter-a21caf?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="https://open.spotify.com/user/mzn4enz0nrg3cdmt0f7tpfng1"><img src="https://img.shields.io/badge/Spotify-c026d3?style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.pinterest.com/AxionCs"><img src="https://img.shields.io/badge/Pinterest-db2777?style=for-the-badge&logo=pinterest&logoColor=white"></a>
 <a href="mailto:shadman17244@gmail.com"><img src="https://img.shields.io/badge/Gmail-ec4899?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <br>
