@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:6d28d9,100:dc2626&height=240&section=header&text=Shadman%20Sakib&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=axioncs&descSize=22&descAlignY=62" width="100%" alt="Shadman Sakib">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:6d28d9,100:dc2626&height=110&section=header" width="100%" alt="">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=640&height=60&lines=Shadman+Sakib" alt="Shadman Sakib">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=E879F9&center=true&vCenter=true&repeat=false&width=560&height=30&lines=INTP-A+%7C+5w4+%7C+True+Neutral" alt="INTP-A | 5w4 | True Neutral">
+<br><br>
     
 <a href="https://discord.com/users/613176375460888587"><img src="https://img.shields.io/badge/Discord-7c3aed?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://t.me/AxionCs"><img src="https://img.shields.io/badge/Telegram-9333ea?style=for-the-badge&logo=telegram&logoColor=white"></a>
