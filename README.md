@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="assets/banner.jpg" width="100%" alt="banner">
+<img src="assets/banner.jpg" width="70%" alt="banner">
 
 <br><br>
 
